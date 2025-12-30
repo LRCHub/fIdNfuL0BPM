@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "GONG",
+  "base_artist": "JAM Project",
+  "createdAt": "2025-12-30T16:05:52.902736Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Grasi vaxin göng",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/01_Grasi_vaxin_göng_múm.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Get It On (Bang a Gong)",
+      "artist": "The Power Station",
+      "has_synced": true,
+      "path": "select/02_Get_It_On_(Bang_a_Gong)_The_Power_Station.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Get It On (Bang a Gong) (7\")",
+      "artist": "The Power Station",
+      "has_synced": false,
+      "path": "select/03_Get_It_On_(Bang_a_Gong)_(7_)_The_Power_Station.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Make It Bun Dem (Skrillex & Damian \"Jr. Gong\" Marley)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/04_Make_It_Bun_Dem_(Skrillex_&_Damian__Jr._Gong__Marley)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bang A Gong/Funtime - Live",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/05_Bang_A_Gong_Funtime_-_Live_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bang a Gong \u0000 Funtime",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/06_Bang_a_Gong_\u0000_Funtime_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gong",
+      "artist": "Sigur Rós",
+      "has_synced": false,
+      "path": "select/07_Gong_Sigur_Rós.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Get It On (Bang a Gong)",
+      "artist": "T. Rex",
+      "has_synced": false,
+      "path": "select/08_Get_It_On_(Bang_a_Gong)_T._Rex.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bang A Gong (Get It On)",
+      "artist": "T. Rex",
+      "has_synced": true,
+      "path": "select/09_Bang_A_Gong_(Get_It_On)_T._Rex.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wooly Wolly Gong",
+      "artist": "Tune-Yards",
+      "has_synced": false,
+      "path": "select/10_Wooly_Wolly_Gong_Tune-Yards.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bang A Gong",
+      "artist": "Joe Perry Project",
+      "has_synced": false,
+      "path": "select/11_Bang_A_Gong_Joe_Perry_Project.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ging Gang Gong De Do Gong De Laga Raga",
+      "artist": "Rob Zombie",
+      "has_synced": true,
+      "path": "select/12_Ging_Gang_Gong_De_Do_Gong_De_Laga_Raga_Rob_Zombie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Yo Contigo, Tú Conmigo (The Gong Gong Song) [El Tema De La Película \"Gru 3 Mi Villano Favorito\"]",
+      "artist": "Morat y Alvaro Soler",
+      "has_synced": true,
+      "path": "select/13_Yo_Contigo,_Tú_Conmigo_(The_Gong_Gong_Song)_[El_Tema_De_La_Película__Gru_3_Mi_Vi_Morat_y_Alvaro_Soler.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yo Contigo, Tú Conmigo - The Gong Gong Song / El Tema De La Película \"Gru 3 Mi Villano Favorito\"",
+      "artist": "Morat, Alvaro Soler",
+      "has_synced": true,
+      "path": "select/14_Yo_Contigo,_Tú_Conmigo_-_The_Gong_Gong_Song___El_Tema_De_La_Película__Gru_3_Mi_V_Morat,_Alvaro_Soler.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bang A Gong [Get It On]",
+      "artist": "T. Rex",
+      "has_synced": true,
+      "path": "select/15_Bang_A_Gong_[Get_It_On]_T._Rex.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GONG",
+      "artist": "JAM Project",
+      "has_synced": false,
+      "path": "select/pl_01_GONG_JAM_Project.txt"
+    }
+  ]
+}
